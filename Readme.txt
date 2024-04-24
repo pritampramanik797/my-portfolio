@@ -1,8 +1,8 @@
-<h1>Welcome to Pritam Pramanik's Website!</h1>
+##Welcome to Pritam Pramanik's Website!
 Overview
 Welcome to my corner of the internet! This is the official website of Pritam Pramanik, where you can learn more about me, my projects, and what I'm passionate about.
 
-About Me
+##About Me
 I'm a budding entrepreneur, tech enthusiast, and creative soul. With a background in video editing and a passion for technology, I'm on a mission to make a difference in the digital world.
 
 What You'll Find Here
